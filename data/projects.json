@@ -1,0 +1,101 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "projects": [
+    {
+      "title": "CloudDeploy",
+      "description": "Open-source deployment orchestrator that rolls out containerized apps with zero-downtime blue/green strategies.",
+      "longDescription": "Open-source deployment orchestrator that rolls out containerized apps with zero-downtime blue/green strategies.",
+      "category": "Software Development",
+      "technologies": [
+        "Go",
+        "Kubernetes",
+        "Docker"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FF6B6B",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/alexmorgan-dev/clouddeploy",
+      "demo": "",
+      "links": {
+        "github": "https://github.com/alexmorgan-dev/clouddeploy"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "InsightBoard",
+      "description": "Real-time analytics dashboard with configurable widgets, streaming charts, and role-based access control.",
+      "longDescription": "Real-time analytics dashboard with configurable widgets, streaming charts, and role-based access control.",
+      "category": "Web Development",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "WebSockets"
+      ],
+      "icon": "fas fa-globe",
+      "color": "#4ECDC4",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/alexmorgan-dev/insightboard",
+      "demo": "",
+      "links": {
+        "github": "https://github.com/alexmorgan-dev/insightboard"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "PipeWorks",
+      "description": "Declarative data pipeline framework with schema validation, retries, and observability built in.",
+      "longDescription": "Declarative data pipeline framework with schema validation, retries, and observability built in.",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Kafka",
+        "PostgreSQL"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#FFE66D",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/alexmorgan-dev/pipeworks",
+      "demo": "",
+      "links": {
+        "github": "https://github.com/alexmorgan-dev/pipeworks"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    },
+    {
+      "title": "DevMetrics CLI",
+      "description": "Command-line tool that aggregates engineering metrics from GitHub and CI systems into weekly reports.",
+      "longDescription": "Command-line tool that aggregates engineering metrics from GitHub and CI systems into weekly reports.",
+      "category": "Software Development",
+      "technologies": [
+        "TypeScript",
+        "Node.js"
+      ],
+      "icon": "fas fa-project-diagram",
+      "color": "#A8DADC",
+      "image": "",
+      "featured": true,
+      "github": "https://github.com/alexmorgan-dev/devmetrics-cli",
+      "demo": "",
+      "links": {
+        "github": "https://github.com/alexmorgan-dev/devmetrics-cli"
+      },
+      "stats": {
+        "status": "Completed",
+        "year": "2026"
+      }
+    }
+  ]
+}

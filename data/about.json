@@ -1,0 +1,40 @@
+{
+  "_instructions": "About section.",
+  "sectionTitle": "About Me",
+  "image": "assets/images/profile.jpg",
+  "paragraphs": [
+    "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics.",
+    "Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+  ],
+  "statistics": [
+    {
+      "icon": "fas fa-briefcase",
+      "value": "6+",
+      "label": "Years Experience",
+      "color": "#FF6B6B"
+    },
+    {
+      "icon": "fas fa-project-diagram",
+      "value": "4+",
+      "label": "Featured Projects",
+      "color": "#4ECDC4"
+    },
+    {
+      "icon": "fas fa-code",
+      "value": "19+",
+      "label": "Technologies",
+      "color": "#FFE66D"
+    },
+    {
+      "icon": "fas fa-building",
+      "value": "2",
+      "label": "Companies",
+      "color": "#A8DADC"
+    }
+  ],
+  "downloadCV": {
+    "text": "Download Resume",
+    "href": "assets/files/Resume.pdf",
+    "icon": "fas fa-download"
+  }
+}

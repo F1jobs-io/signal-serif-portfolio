@@ -1,0 +1,28 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "B.S. in Computer Science",
+      "school": "University of California, Berkeley",
+      "institution": "University of California, Berkeley",
+      "period": "2016 - 2020",
+      "details": "",
+      "description": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Certified Solutions Architect",
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2023",
+      "icon": "fas fa-certificate",
+      "color": "#FFE66D",
+      "url": ""
+    }
+  ],
+  "awardsTitle": "Awards",
+  "awards": []
+}

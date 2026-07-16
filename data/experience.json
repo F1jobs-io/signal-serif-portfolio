@@ -1,0 +1,30 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Acme Cloud",
+      "period": "Jan 2023 - Present",
+      "location": "San Francisco, CA",
+      "description": "Senior Software Engineer at Acme Cloud",
+      "responsibilities": [
+        "Led the redesign of a multi-tenant API platform serving 2M+ requests per day, cutting p99 latency by 45%",
+        "Built CI/CD pipelines with GitHub Actions and Docker, reducing deployment time from hours to minutes",
+        "Mentored four junior engineers and established the team code review and testing standards"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Brightline Labs",
+      "period": "Jun 2020 - Dec 2022",
+      "location": "Remote",
+      "description": "Software Engineer at Brightline Labs",
+      "responsibilities": [
+        "Developed customer-facing dashboards in React and TypeScript used by 40k monthly active users",
+        "Designed event-driven data pipelines with Kafka and Python processing 10M+ events daily",
+        "Improved automated test coverage from 40% to 85%, cutting production regressions in half"
+      ]
+    }
+  ]
+}

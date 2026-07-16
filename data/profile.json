@@ -1,0 +1,18 @@
+{
+  "profile": {
+    "name": "Alex Morgan",
+    "title": "Software Engineer",
+    "bio": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics. Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+  },
+  "contact": {
+    "email": "alex.morgan@example.com",
+    "phone": "+1 (555) 123-4567",
+    "githubUsername": "alexmorgan-dev",
+    "linkedin": "https://linkedin.com/in/alexmorgan"
+  },
+  "siteConfig": {
+    "domain": "",
+    "title": "Alex Morgan - Portfolio",
+    "description": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics. Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+  }
+}

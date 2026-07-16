@@ -1,0 +1,26 @@
+{
+  "_instructions": "Site-wide configuration and meta tags.",
+  "title": "Alex Morgan | Software Engineer",
+  "description": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping ...",
+  "keywords": "Software Engineer, Portfolio, Alex Morgan, TypeScript, Python, SQL, Go, React, Node.js, FastAPI, Next.js",
+  "author": "Alex Morgan",
+  "siteName": "Alex Morgan",
+  "siteTitle": "Alex Morgan | Software Engineer",
+  "meta": {
+    "title": "Alex Morgan | Software Engineer",
+    "description": "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping ...",
+    "author": "Alex Morgan",
+    "keywords": "Software Engineer, Portfolio, Alex Morgan, TypeScript, Python, SQL, Go, React, Node.js, FastAPI, Next.js"
+  },
+  "branding": {
+    "name": "Alex Morgan",
+    "tagline": "Software Engineer",
+    "logo": "/logo.png"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "enableParticles": true,
+    "navbarScrollEffect": true
+  }
+}
