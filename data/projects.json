@@ -3,23 +3,22 @@
   "sectionTitle": "Featured Work",
   "projects": [
     {
-      "title": "CloudDeploy",
-      "description": "Open-source deployment orchestrator that rolls out containerized apps with zero-downtime blue/green strategies.",
-      "longDescription": "Open-source deployment orchestrator that rolls out containerized apps with zero-downtime blue/green strategies.",
-      "category": "Software Development",
+      "title": "hil-harness",
+      "description": "Hardware-in-the-loop test harness for automated firmware regression.",
+      "longDescription": "Hardware-in-the-loop test harness for automated firmware regression.",
+      "category": "Backend Development",
       "technologies": [
-        "Go",
-        "Kubernetes",
-        "Docker"
+        "Python",
+        "C"
       ],
       "icon": "fas fa-project-diagram",
       "color": "#FF6B6B",
       "image": "",
       "featured": true,
-      "github": "https://github.com/alexmorgan-dev/clouddeploy",
+      "github": "https://github.com/ekowalski-fw/hil-harness",
       "demo": "",
       "links": {
-        "github": "https://github.com/alexmorgan-dev/clouddeploy"
+        "github": "https://github.com/ekowalski-fw/hil-harness"
       },
       "stats": {
         "status": "Completed",
@@ -27,23 +26,21 @@
       }
     },
     {
-      "title": "InsightBoard",
-      "description": "Real-time analytics dashboard with configurable widgets, streaming charts, and role-based access control.",
-      "longDescription": "Real-time analytics dashboard with configurable widgets, streaming charts, and role-based access control.",
-      "category": "Web Development",
+      "title": "trace-parse",
+      "description": "Multi-source log and trace parser for embedded debugging.",
+      "longDescription": "Multi-source log and trace parser for embedded debugging.",
+      "category": "Software Development",
       "technologies": [
-        "React",
-        "TypeScript",
-        "WebSockets"
+        "Rust"
       ],
-      "icon": "fas fa-globe",
+      "icon": "fas fa-project-diagram",
       "color": "#4ECDC4",
       "image": "",
       "featured": true,
-      "github": "https://github.com/alexmorgan-dev/insightboard",
+      "github": "https://github.com/ekowalski-fw/trace-parse",
       "demo": "",
       "links": {
-        "github": "https://github.com/alexmorgan-dev/insightboard"
+        "github": "https://github.com/ekowalski-fw/trace-parse"
       },
       "stats": {
         "status": "Completed",
@@ -51,23 +48,21 @@
       }
     },
     {
-      "title": "PipeWorks",
-      "description": "Declarative data pipeline framework with schema validation, retries, and observability built in.",
-      "longDescription": "Declarative data pipeline framework with schema validation, retries, and observability built in.",
-      "category": "Backend Development",
+      "title": "rtos-probe",
+      "description": "Lightweight profiler for FreeRTOS task timing.",
+      "longDescription": "Lightweight profiler for FreeRTOS task timing.",
+      "category": "Software Development",
       "technologies": [
-        "Python",
-        "Kafka",
-        "PostgreSQL"
+        "C"
       ],
       "icon": "fas fa-project-diagram",
       "color": "#FFE66D",
       "image": "",
       "featured": true,
-      "github": "https://github.com/alexmorgan-dev/pipeworks",
+      "github": "https://github.com/ekowalski-fw/rtos-probe",
       "demo": "",
       "links": {
-        "github": "https://github.com/alexmorgan-dev/pipeworks"
+        "github": "https://github.com/ekowalski-fw/rtos-probe"
       },
       "stats": {
         "status": "Completed",
@@ -75,22 +70,22 @@
       }
     },
     {
-      "title": "DevMetrics CLI",
-      "description": "Command-line tool that aggregates engineering metrics from GitHub and CI systems into weekly reports.",
-      "longDescription": "Command-line tool that aggregates engineering metrics from GitHub and CI systems into weekly reports.",
-      "category": "Software Development",
+      "title": "bringup-kit",
+      "description": "Reusable board bring-up scripts for Cortex-M targets.",
+      "longDescription": "Reusable board bring-up scripts for Cortex-M targets.",
+      "category": "Backend Development",
       "technologies": [
-        "TypeScript",
-        "Node.js"
+        "C",
+        "Python"
       ],
       "icon": "fas fa-project-diagram",
       "color": "#A8DADC",
       "image": "",
       "featured": true,
-      "github": "https://github.com/alexmorgan-dev/devmetrics-cli",
+      "github": "https://github.com/ekowalski-fw/bringup-kit",
       "demo": "",
       "links": {
-        "github": "https://github.com/alexmorgan-dev/devmetrics-cli"
+        "github": "https://github.com/ekowalski-fw/bringup-kit"
       },
       "stats": {
         "status": "Completed",

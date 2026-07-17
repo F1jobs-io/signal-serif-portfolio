@@ -7,10 +7,10 @@
       "icon": "fas fa-code",
       "color": "#FF6B6B",
       "skills": [
-        "TypeScript",
+        "C",
+        "C++",
         "Python",
-        "SQL",
-        "Go"
+        "Rust"
       ]
     },
     {
@@ -18,10 +18,8 @@
       "icon": "fas fa-toolbox",
       "color": "#4ECDC4",
       "skills": [
-        "React",
-        "Node.js",
-        "FastAPI",
-        "Next.js"
+        "FreeRTOS",
+        "Zephyr"
       ]
     },
     {
@@ -29,12 +27,12 @@
       "icon": "fas fa-wrench",
       "color": "#FFE66D",
       "skills": [
-        "AWS",
+        "Git",
+        "GDB",
+        "Yocto",
+        "Logic Analyzer",
         "Docker",
-        "Kubernetes",
-        "PostgreSQL",
-        "Kafka",
-        "GitHub Actions"
+        "Jenkins"
       ]
     },
     {
@@ -42,11 +40,13 @@
       "icon": "fas fa-laptop-code",
       "color": "#A8DADC",
       "skills": [
-        "Distributed Systems",
-        "CI/CD",
-        "System Design",
-        "Data Pipelines",
-        "REST APIs"
+        "Firmware",
+        "Embedded Linux",
+        "Test Automation",
+        "Low-level Debugging",
+        "RTOS",
+        "Device Drivers",
+        "CI/CD"
       ]
     }
   ]

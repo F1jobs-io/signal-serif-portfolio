@@ -3,27 +3,27 @@
   "sectionTitle": "Professional Experience",
   "experiences": [
     {
-      "title": "Senior Software Engineer",
-      "company": "Acme Cloud",
-      "period": "Jan 2023 - Present",
-      "location": "San Francisco, CA",
-      "description": "Senior Software Engineer at Acme Cloud",
+      "title": "Embedded Software Engineer",
+      "company": "Halcyon Semiconductors",
+      "period": "May 2021 - Present",
+      "location": "Los Angeles, CA",
+      "description": "Embedded Software Engineer at Halcyon Semiconductors",
       "responsibilities": [
-        "Led the redesign of a multi-tenant API platform serving 2M+ requests per day, cutting p99 latency by 45%",
-        "Built CI/CD pipelines with GitHub Actions and Docker, reducing deployment time from hours to minutes",
-        "Mentored four junior engineers and established the team code review and testing standards"
+        "Cut manual regression time ~40% with a Python-based hardware-in-the-loop test harness",
+        "Root-caused 12+ high-severity firmware defects from multi-source log traces",
+        "Validated firmware across power, sensor, and communication subsystems for production release"
       ]
     },
     {
-      "title": "Software Engineer",
-      "company": "Brightline Labs",
-      "period": "Jun 2020 - Dec 2022",
-      "location": "Remote",
-      "description": "Software Engineer at Brightline Labs",
+      "title": "Firmware Engineer",
+      "company": "Vector Devices",
+      "period": "Aug 2019 - Apr 2021",
+      "location": "San Jose, CA",
+      "description": "Firmware Engineer at Vector Devices",
       "responsibilities": [
-        "Developed customer-facing dashboards in React and TypeScript used by 40k monthly active users",
-        "Designed event-driven data pipelines with Kafka and Python processing 10M+ events daily",
-        "Improved automated test coverage from 40% to 85%, cutting production regressions in half"
+        "Developed drivers and bring-up code for ARM Cortex-M microcontrollers",
+        "Built automated bench tests that improved firmware-build validation throughput 3x",
+        "Debugged real-time and Linux-layer issues using logic analyzers and trace tooling"
       ]
     }
   ]

@@ -1,9 +1,9 @@
 {
   "_instructions": "Footer section.",
   "copyright": {
-    "text": "© 2026 Alex Morgan. All rights reserved.",
+    "text": "© 2026 Elena Kowalski. All rights reserved.",
     "year": "2026",
-    "name": "Alex Morgan"
+    "name": "Elena Kowalski"
   },
   "tagline": "Crafted with passion and dedication",
   "links": [
@@ -19,17 +19,17 @@
   "socialLinks": [
     {
       "platform": "GitHub",
-      "url": "https://github.com/alexmorgan-dev",
+      "url": "https://github.com/ekowalski-fw",
       "icon": "fab fa-github"
     },
     {
       "platform": "LinkedIn",
-      "url": "https://linkedin.com/in/alexmorgan",
+      "url": "https://linkedin.com/in/elenakowalski",
       "icon": "fab fa-linkedin"
     },
     {
       "platform": "Email",
-      "url": "mailto:alex.morgan@example.com",
+      "url": "mailto:elena.kowalski@example.com",
       "icon": "fas fa-envelope"
     }
   ],

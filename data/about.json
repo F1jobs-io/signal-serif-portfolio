@@ -1,15 +1,15 @@
 {
   "_instructions": "About section.",
   "sectionTitle": "About Me",
-  "image": "assets/images/profile.jpg",
+  "image": "assets/images/portrait.png",
   "paragraphs": [
-    "Software engineer with 5+ years of experience designing scalable web applications, cloud infrastructure, and data-driven products. I focus on clean architecture, developer experience, and shipping features that move business metrics.",
-    "Comfortable across the stack, from React frontends to distributed backend services and CI/CD automation."
+    "Embedded Systems Engineer with 5 years shipping validated, production-grade firmware where hardware meets software. I build test automation and low-level debugging tooling that harden reliability across sensor, power, and communication subsystems.",
+    "I care about deterministic behavior and reproducible validation."
   ],
   "statistics": [
     {
       "icon": "fas fa-briefcase",
-      "value": "6+",
+      "value": "8+",
       "label": "Years Experience",
       "color": "#FF6B6B"
     },
