@@ -300,13 +300,18 @@
                     .join('');
             }
 
-            // Portrait caption + alt (image file itself stays as shipped)
+            // Portrait image, caption and alt. Leaving the shipped image in
+            // place put the demo model's face on every customer's site.
             const cap = $('.about__portrait figcaption .v');
             if (cap && isStr(name)) {
                 cap.textContent = [name, location, title].filter(isStr).join(' · ');
             }
             const img = $('.about__portrait img');
-            if (img && isStr(name)) img.setAttribute('alt', `${name} — portrait`);
+            if (img) {
+                const avatar = about.image || (d.hero && d.hero.avatarUrl);
+                if (isStr(avatar)) img.setAttribute('src', avatar);
+                if (isStr(name)) img.setAttribute('alt', `${name} — portrait`);
+            }
         });
 
         // ---- Work / Experience
